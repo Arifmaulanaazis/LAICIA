@@ -1,5 +1,3 @@
-Sure, here's the revised README with the GPLv3 license:
-
 # L.A.I.C.I.A Desktop App
 
 L.A.I.C.I.A (Learning Artificial Companion with Intelligent Abilities) is a desktop application that serves as a chatbot powered by OpenAI's GPT model. It allows users to ask questions and receive intelligent responses in Indonesian language.
